@@ -10,7 +10,6 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-
 ## Assembly of Delta 3D Printer
 ### 1.	Select 'Assembly of Delta 3D Printer' from the visible list.
 ### 2.	All the parts related to Delta 3D Printer will be shown on the screen.
@@ -26,11 +25,9 @@
 
 ## OUTPUT:
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
-
 ![empd 5](https://github.com/swetha1510/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/120623583/4ebd8972-421f-4508-83ed-2e1b7e5c13af)
 
 ### Name:SWETHA P
